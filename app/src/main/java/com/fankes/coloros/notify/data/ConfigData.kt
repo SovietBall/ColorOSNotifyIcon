@@ -60,7 +60,7 @@ object ConfigData {
     val ENABLE_MD3_NOTIFY_ICON_STYLE = PrefsData("_notify_icon_md3_style", isUpperOfAndroidS)
 
     /** 通知栏中的通知图标圆角程度 */
-    val NOTIFY_ICON_CORNER_SIZE = PrefsData("_notify_icon_corner", 15)
+    val NOTIFY_ICON_CORNER_SIZE = PrefsData("_notify_icon_corner", 20)
 
     /** 强制通知栏中的通知图标使用系统着色 */
     val ENABLE_NOTIFY_ICON_FORCE_SYSTEM_COLOR = PrefsData("_notify_icon_force_system_color", false)
